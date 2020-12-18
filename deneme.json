@@ -1,0 +1,165 @@
+﻿[
+	{
+		"id": "1",
+		"hafta": "1.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "MONTAJ",
+		"sinif": "9"
+	},
+	{
+		"id": "2",
+		"hafta": "2.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "BAKIM",
+		"sinif": "9"
+	},
+	{
+		"id": "3",
+		"hafta": "3.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "TAKMA",
+		"sinif": "9"
+	},
+	{
+		"id": "4",
+		"hafta": "4.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "YENİLME",
+		"sinif": "9"
+	},
+	{
+		"id": "5",
+		"hafta": "1.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "MONTAJ",
+		"sinif": "9"
+	},
+	{
+		"id": "6",
+		"hafta": "2.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "BAKIM",
+		"sinif": "9"
+	},
+	{
+		"id": "7",
+		"hafta": "3.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "TAKMA",
+		"sinif": "9"
+	},
+	{
+		"id": "8",
+		"hafta": "4.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "YENİLME",
+		"sinif": "9"
+	},
+	{
+		"id": "9",
+		"hafta": "1.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "MONTAJ",
+		"sinif": "9"
+	},
+	{
+		"id": "10",
+		"hafta": "2.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "BAKIM",
+		"sinif": "9"
+	},
+	{
+		"id": "11",
+		"hafta": "3.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "TAKMA",
+		"sinif": "9"
+	},
+	{
+		"id": "12",
+		"hafta": "4.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "YENİLME",
+		"sinif": "9"
+	},
+	{
+		"id": "13",
+		"hafta": "1.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "MONTAJ",
+		"sinif": "9"
+	},
+	{
+		"id": "14",
+		"hafta": "2.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "BAKIM",
+		"sinif": "9"
+	},
+	{
+		"id": "15",
+		"hafta": "3.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "TAKMA",
+		"sinif": "9"
+	},
+	{
+		"id": "16",
+		"hafta": "4.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "YENİLME",
+		"sinif": "9"
+	},
+	{
+		"id": "17",
+		"hafta": "1.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "MONTAJ",
+		"sinif": "9"
+	},
+	{
+		"id": "18",
+		"hafta": "2.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "BAKIM",
+		"sinif": "9"
+	},
+	{
+		"id": "19",
+		"hafta": "3.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "TAKMA",
+		"sinif": "9"
+	},
+	{
+		"id": "20",
+		"hafta": "4.HAFTA",
+		"ders": "BTT",
+		"konu": "ANAKART",
+		"kazanim": "YENİLME",
+		"sinif": "9"
+	},
+	{
+		"id": ""
+	}
+]
